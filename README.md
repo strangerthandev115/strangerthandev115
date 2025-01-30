@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Stranger!</h1>
 <h3 align="center">An senior C.S. Student in the USA</h3>
 
-- 🌱 I’m currently learning **Compiler Design and Software Development and Software Cybersecurity**
+- 🌱 I’m currently learning **Compiler Design & Software Development and Software Cybersecurity**
 
 - 💬 Ask me about **Dev, Games, and College**
 
